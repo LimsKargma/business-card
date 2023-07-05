@@ -1,0 +1,7 @@
+{
+    "name": "Toms Todo List",
+    "short_name": "Toms Todo List",
+    "theme_color": "#CFD6EA",
+    "background_color": "#CFD6EA",
+    "display": "standalone"
+}
